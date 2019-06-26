@@ -1,0 +1,3 @@
+- 0.1.0 Initial release
+- 0.1.1 Initial bump
+- 0.1.2 Update changelog information

@@ -13,3 +13,5 @@
 node_modules
 config/initializers/grape_swagger_rails_themes.rb
 app/views/grape_swagger_rails/application/index.html.erb
+
+grape-swagger-rails-themes-*.gem
