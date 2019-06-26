@@ -38,7 +38,7 @@ To release a new version, update the version number in `version.rb`, and then ru
 
 You could use [gem release](https://github.com/svenfuchs/gem-release). 
 1. Install gem release using command `gem install gem-release`. 
-2. Update version using command `gem bump minor --file lib/grape_swagger_rails_themes/themes/version.rb -m your_message`
+2. Update version using command `gem bump minor --file lib/grape_swagger_rails_themes/themes/version.rb`
 3. Build gem using command `gem build grape-swagger-rails-themes.gemspec`
 4. Release gem using command `gem release`
 
